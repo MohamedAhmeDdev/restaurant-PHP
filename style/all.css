@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.main-heading{
+    background-color: #805ad5;
+    border-bottom: 1pc solid #f7fafc;
+    color: #f7fafc;
+    padding: 8px 16px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.customer-list-container{
+    
+    padding: 8px;
+    margin-top: 10px;
+
+}
+.add-customer-btn{
+    padding: 10px 50px;
+    background-color: #805ad5;
+    margin: 20px;
+}
+

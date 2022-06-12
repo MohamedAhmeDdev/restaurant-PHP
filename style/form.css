@@ -1,0 +1,25 @@
+.inputform{
+    border: 2px solid blue;
+    position: relative;
+    left: 400px;
+    margin-top: 50px;
+    height: 350px;
+    width: 400px;
+}
+form{
+    padding: 10px 20px;
+}    
+input{
+    font-size: 15px;
+    background-color: rgba(173, 216, 230, 0.459);
+    outline: none;
+    border: none;
+    margin:10px;
+    width: 300px;
+    height: 40px;
+}
+#submit{
+    background-color: blue;
+    color: white;
+
+}

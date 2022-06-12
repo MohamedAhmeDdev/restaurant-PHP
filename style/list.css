@@ -1,0 +1,32 @@
+.customers-table{
+    bottom: 1px solid #805ad5;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 1.2em;
+}
+.customers-table th{
+    border-left: 1px solid #805ad5;
+    padding: 4px 8px;
+}
+.customers-table td{
+    padding: 4px 8px;
+}
+.controls{
+    border: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+.control-button{
+    padding: 4px 15px;
+    cursor: pointer;
+    border-radius: 4px;
+    outline: none;
+}
+.control-button.edit{
+    background-color: #805ad5;
+    color: #fff;
+}
+.control-button.edit{
+    background-color: red;
+    color: #fff;
+}
